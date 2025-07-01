@@ -2,5 +2,10 @@ body {
     margin: 0;
     padding: 0;
     background-color: #000000;
+}
+canvas {
     border: 1px solid #71ff04;
+    overflow: hidden;
+    display: block;
+    margin: 0 auto;
 }
